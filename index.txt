@@ -1,0 +1,102 @@
+<html>
+	<title> Curriculo de Full-strack </title>
+	<head>
+		<h2> Cabeçalho da atividade: </h2>
+		<h4> Alunos:Mateus Henrique Martins e Luis Gustavo Piza Silva </h4>
+		<h4> Matriculas: 2020.1.08.022 , 2020.1.08.021. </h4>
+		<h4> E-mail:mateus.martins@sou.unifal-mg.edu.br e luis.piza@sou.unifal-mg.edu.br. </h4>
+		<h4> Atividade:Exercícios Unidade IV-ICC | 1S2020.</h4>
+	<hr>
+
+	<h1> Vaga para Full-stack para o Google. </h1>
+	<img src="bg.jpg" width=180 height=180>
+	<h6> Imagem meramente ilustrativa </h6>
+
+	</head>
+		
+		<h2> Informações Pessoais: </h2>
+		 <h4> Nome: Rodrigo Batista Tavares.</h4>
+		 <h4> Idade:45 anos. </h4>
+		 <h4> Endereço: Rua Juscelino Barbosa, 1428 - Centro, Alfenas. </h4>
+		 <h4> Cidade de Nascimento: Alfenas, Minas Gerais.</h4>
+		 <h4> E-mail: mateus.martins@sou.unifal-mg.edu.br luis.piza@sou.unifal-mg.edu.br. </h4> 
+	<br>
+
+	<h2> Formação Profissional: </h2>
+	    <table border="1">
+		<tr>
+			<td> <b> Área de tecnologia</b></td>
+			<td> <b> Especialidades</b> </td>
+		</tr>
+		<tr>
+			<td> <b> bancos de dados<b> </td>
+			<td> Oracle, Postgree, SQLServer,MySQL </td>
+
+		</tr>
+		<tr>
+			<td><b> Front-End</b> </td>
+			<td> HTML, HTML5, CSS, JavaScript, AngularJS, WordPress, JQuery, Ajax, React</td>
+		</tr>
+		<tr>
+			<td> <b>Back-End</b> </td>
+			<td> Phyton, Node.js, JAVA 7, JAVA 8, JAVA 11, PHP, Spring Boot, Versionamento  </td>
+	 
+		</tr>
+		
+	  </table>
+
+	<h2> Formação Educacional: </h2>
+		<h4> <mark> Conclusão de curso online de língua Inglesa em 2013. </mark> </h4>
+		<h4> <mark> Formado do Ensino médio no Instituto Federal sul de minas- Muzambinho em 2018.</mark> </h4>
+		<h4> <mark> Conclusão de curso técnico em Informática no Instituto Federal sul de minas- Muzambinho em 2018. </mark> </h4>
+		<h4> <mark> Formado em Ciências da Computação na Universidade Federal de Alfenas-MG em 2022.</mark> </h4>
+		<h4> <mark> Pós-Graduado em Ciência de Computação e Matemática Computacional na USP- São Carlos em 2026.</mark> </h4>
+		<h4> <mark> Conclusão de curso online Língua francesa em 2026. </mark> </h4>
+		<h4> <mark> Pós-Graduação em Matemática Aplicada na USP- São Paulo em 2030.</mark> </h4>
+		<h4> <mark> Experiêcia	na área de Desenvolvimento de jogos pela empresa BetaGames Group.</mark> </h4>
+	<br>
+
+	<h3> Qualificações profissionais: </h3>
+		<h2> <a href="https://www.alura.com.br/cursos-online-front-end/" target="_Blank"> <h5> Front End</h5> </a> </h2>
+		<h4>     Atuação como desenvolvedor Full-Stack (Front-end e Back-end) Codificação em jQuery, AJAX, JSON, XML, html5, css3, bootstrap, angularJS, PHP, Zend e SQL. Utilização de metodologia ágil SCRUM e controle de versão em GIT.</h4>
+		<h3> <a href="https://www.microlins.com.br/cursos/design-grafico-web-e-games/web-designer/" target="_Blank"> Web designer </a> </h3>
+		<h4>     Desenvolvimento de websites, logomarcas, ilustrações e animações e edição de imagem e animação em Photoshop, Illustrator, Spriter e Flash. Codificação em html5, css3 e bootstrap.<h4>
+		<h3> <a href="https://www.microlins.com.br/cursos/informatica-e-tecnologia/desenvolvimento-de-aplicativos/"target=_"blank"> Desenvolvedor de aplicativos </a> </h3>
+		<h4>     Desenvolvimento de jogos eletrônicos e redes socias.</h4>
+	<br>
+	
+	
+	<h2> Idiomas: </h2>
+	<ol>
+	    <ul>
+	        <h4> <li> Inglês:Avançado</li> </h4>
+	        <h4> <li> Francês:Intermediário</li> </h4>
+	   </ul>
+	</ol>
+	<br>
+
+	
+	<h2> Áudio: </h2>
+		<h4> Clicando no <i>link</i> você será redirecionando para a página com o áudio da apresentação do profissional </h4>
+		     <a href="audio.html"> Áudio </a> 
+	
+	
+	<h2> Vídeo: </h2>
+		<h4> Clicando no <i>link</i> você será redirecionando para a página com o vídeo da apresentação do profissional </h4>
+		<a href="video.html"> Vídeo </a> 
+
+	
+	<h2> Contatos: </h2>
+		<h4> Telefone (35) 99161-0936 </h4>
+     		<h4> Email Profisional:<a href="mailto:mateus.martins@sou.unifal-mg.edu.br"> mateus.martins@sou.unifal-mg.edu.br </a> </p> </h4> 
+		<h4> Email ProFisional:<a href="mailto:luis.piza@sou.unifal-mg.edu.br"> Luis.piza@sou.unifal.mg.edu.br </a> </p> <h/4>
+	<footer>
+	<hr>
+	<small>
+		<p> Feito por: Mateus Martins e Luis Piza </p>
+	</small>
+	</footer> 
+
+
+
+</html>
